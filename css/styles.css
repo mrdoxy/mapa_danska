@@ -1,0 +1,16 @@
+header {
+    padding: 150px 0px;
+    margin-bottom: 5em;
+    background-color: red;
+    font-size: 64;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-size: 64px;
+    color: red;
+}
+p {
+    font-size: 32px;
+}
